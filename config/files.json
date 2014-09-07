@@ -1,0 +1,313 @@
+{
+  "components": [
+    {
+      "name": "base--color--swatches",
+      "title": "Base - Color - Swatches",
+      "id": "base--color--swatches",
+      "path": "partials/components/base--color--swatches.html",
+      "group": ""
+    },
+    {
+      "name": "custom--controls",
+      "title": "Custom - Controls",
+      "id": "custom--controls",
+      "path": "partials/components/custom--controls.html",
+      "group": ""
+    },
+    {
+      "name": "main--navigation",
+      "title": "Main - Navigation",
+      "id": "main--navigation",
+      "path": "partials/components/main--navigation.html",
+      "group": ""
+    },
+    {
+      "name": "base--form",
+      "title": "Base - Form",
+      "id": "base-forms--base--form",
+      "path": "partials/components/base/forms/base--form.html",
+      "group": "base-forms"
+    },
+    {
+      "name": "input--color",
+      "title": "Input - Color",
+      "id": "base-forms-inputs--input--color",
+      "path": "partials/components/base/forms/inputs/input--color.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--date",
+      "title": "Input - Date",
+      "id": "base-forms-inputs--input--date",
+      "path": "partials/components/base/forms/inputs/input--date.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--datetime-local",
+      "title": "Input - Datetime Local",
+      "id": "base-forms-inputs--input--datetime-local",
+      "path": "partials/components/base/forms/inputs/input--datetime-local.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--datetime",
+      "title": "Input - Datetime",
+      "id": "base-forms-inputs--input--datetime",
+      "path": "partials/components/base/forms/inputs/input--datetime.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--email",
+      "title": "Input - Email",
+      "id": "base-forms-inputs--input--email",
+      "path": "partials/components/base/forms/inputs/input--email.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--file",
+      "title": "Input - File",
+      "id": "base-forms-inputs--input--file",
+      "path": "partials/components/base/forms/inputs/input--file.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--hidden",
+      "title": "Input - Hidden",
+      "id": "base-forms-inputs--input--hidden",
+      "path": "partials/components/base/forms/inputs/input--hidden.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--image",
+      "title": "Input - Image",
+      "id": "base-forms-inputs--input--image",
+      "path": "partials/components/base/forms/inputs/input--image.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--month",
+      "title": "Input - Month",
+      "id": "base-forms-inputs--input--month",
+      "path": "partials/components/base/forms/inputs/input--month.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--number",
+      "title": "Input - Number",
+      "id": "base-forms-inputs--input--number",
+      "path": "partials/components/base/forms/inputs/input--number.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--password",
+      "title": "Input - Password",
+      "id": "base-forms-inputs--input--password",
+      "path": "partials/components/base/forms/inputs/input--password.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--range",
+      "title": "Input - Range",
+      "id": "base-forms-inputs--input--range",
+      "path": "partials/components/base/forms/inputs/input--range.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--reset",
+      "title": "Input - Reset",
+      "id": "base-forms-inputs--input--reset",
+      "path": "partials/components/base/forms/inputs/input--reset.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--search",
+      "title": "Input - Search",
+      "id": "base-forms-inputs--input--search",
+      "path": "partials/components/base/forms/inputs/input--search.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--submit",
+      "title": "Input - Submit",
+      "id": "base-forms-inputs--input--submit",
+      "path": "partials/components/base/forms/inputs/input--submit.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--tel",
+      "title": "Input - Tel",
+      "id": "base-forms-inputs--input--tel",
+      "path": "partials/components/base/forms/inputs/input--tel.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--text",
+      "title": "Input - Text",
+      "id": "base-forms-inputs--input--text",
+      "path": "partials/components/base/forms/inputs/input--text.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--time",
+      "title": "Input - Time",
+      "id": "base-forms-inputs--input--time",
+      "path": "partials/components/base/forms/inputs/input--time.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--url",
+      "title": "Input - Url",
+      "id": "base-forms-inputs--input--url",
+      "path": "partials/components/base/forms/inputs/input--url.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "input--week",
+      "title": "Input - Week",
+      "id": "base-forms-inputs--input--week",
+      "path": "partials/components/base/forms/inputs/input--week.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "textarea",
+      "title": "Textarea",
+      "id": "base-forms-inputs--textarea",
+      "path": "partials/components/base/forms/inputs/textarea.html",
+      "group": "base-forms-inputs"
+    },
+    {
+      "name": "base--button",
+      "title": "Base - Button",
+      "id": "base-forms-controls--base--button",
+      "path": "partials/components/base/forms/controls/base--button.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "base--checkboxes",
+      "title": "Base - Checkboxes",
+      "id": "base-forms-controls--base--checkboxes",
+      "path": "partials/components/base/forms/controls/base--checkboxes.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "base--radios",
+      "title": "Base - Radios",
+      "id": "base-forms-controls--base--radios",
+      "path": "partials/components/base/forms/controls/base--radios.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "base--select",
+      "title": "Base - Select",
+      "id": "base-forms-controls--base--select",
+      "path": "partials/components/base/forms/controls/base--select.html",
+      "group": "base-forms-controls"
+    },
+    {
+      "name": "base--content",
+      "title": "Base - Content",
+      "id": "base-content--base--content",
+      "path": "partials/components/base/content/base--content.html",
+      "group": "base-content"
+    },
+    {
+      "name": "base--em",
+      "title": "Base - Em",
+      "id": "base-content-elements--base--em",
+      "path": "partials/components/base/content/elements/base--em.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "base--image",
+      "title": "Base - Image",
+      "id": "base-content-elements--base--image",
+      "path": "partials/components/base/content/elements/base--image.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "base--link",
+      "title": "Base - Link",
+      "id": "base-content-elements--base--link",
+      "path": "partials/components/base/content/elements/base--link.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "base--p",
+      "title": "Base - P",
+      "id": "base-content-elements--base--p",
+      "path": "partials/components/base/content/elements/base--p.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "base--strong",
+      "title": "Base - Strong",
+      "id": "base-content-elements--base--strong",
+      "path": "partials/components/base/content/elements/base--strong.html",
+      "group": "base-content-elements"
+    },
+    {
+      "name": "base--mixed-list",
+      "title": "Base - Mixed List",
+      "id": "base-content-elements-lists--base--mixed-list",
+      "path": "partials/components/base/content/elements/lists/base--mixed-list.html",
+      "group": "base-content-elements-lists"
+    },
+    {
+      "name": "base--ol",
+      "title": "Base - Ol",
+      "id": "base-content-elements-lists--base--ol",
+      "path": "partials/components/base/content/elements/lists/base--ol.html",
+      "group": "base-content-elements-lists"
+    },
+    {
+      "name": "base--ul",
+      "title": "Base - Ul",
+      "id": "base-content-elements-lists--base--ul",
+      "path": "partials/components/base/content/elements/lists/base--ul.html",
+      "group": "base-content-elements-lists"
+    },
+    {
+      "name": "base--h1",
+      "title": "Base - H1",
+      "id": "base-content-elements-headers--base--h1",
+      "path": "partials/components/base/content/elements/headers/base--h1.html",
+      "group": "base-content-elements-headers"
+    },
+    {
+      "name": "base--h2",
+      "title": "Base - H2",
+      "id": "base-content-elements-headers--base--h2",
+      "path": "partials/components/base/content/elements/headers/base--h2.html",
+      "group": "base-content-elements-headers"
+    },
+    {
+      "name": "base--h3",
+      "title": "Base - H3",
+      "id": "base-content-elements-headers--base--h3",
+      "path": "partials/components/base/content/elements/headers/base--h3.html",
+      "group": "base-content-elements-headers"
+    },
+    {
+      "name": "base--h4",
+      "title": "Base - H4",
+      "id": "base-content-elements-headers--base--h4",
+      "path": "partials/components/base/content/elements/headers/base--h4.html",
+      "group": "base-content-elements-headers"
+    },
+    {
+      "name": "base--h5",
+      "title": "Base - H5",
+      "id": "base-content-elements-headers--base--h5",
+      "path": "partials/components/base/content/elements/headers/base--h5.html",
+      "group": "base-content-elements-headers"
+    },
+    {
+      "name": "base--h6",
+      "title": "Base - H6",
+      "id": "base-content-elements-headers--base--h6",
+      "path": "partials/components/base/content/elements/headers/base--h6.html",
+      "group": "base-content-elements-headers"
+    }
+  ],
+  "layouts": []
+}

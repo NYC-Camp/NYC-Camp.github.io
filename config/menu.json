@@ -1,0 +1,276 @@
+[
+  {
+    "title": "Components",
+    "submenu": [
+      {
+        "title": "Base",
+        "submenu": [
+          {
+            "title": "Content",
+            "submenu": [
+              {
+                "title": "Base - Content",
+                "href": "#/components?id=base-content--base--content"
+              },
+              {
+                "title": "Elements",
+                "submenu": [
+                  {
+                    "title": "Base - Em",
+                    "href": "#/components?id=base-content-elements--base--em"
+                  },
+                  {
+                    "title": "Base - Image",
+                    "href": "#/components?id=base-content-elements--base--image"
+                  },
+                  {
+                    "title": "Base - Link",
+                    "href": "#/components?id=base-content-elements--base--link"
+                  },
+                  {
+                    "title": "Base - P",
+                    "href": "#/components?id=base-content-elements--base--p"
+                  },
+                  {
+                    "title": "Base - Strong",
+                    "href": "#/components?id=base-content-elements--base--strong"
+                  },
+                  {
+                    "title": "Headers",
+                    "submenu": [
+                      {
+                        "title": "Base - H1",
+                        "href": "#/components?id=base-content-elements-headers--base--h1"
+                      },
+                      {
+                        "title": "Base - H2",
+                        "href": "#/components?id=base-content-elements-headers--base--h2"
+                      },
+                      {
+                        "title": "Base - H3",
+                        "href": "#/components?id=base-content-elements-headers--base--h3"
+                      },
+                      {
+                        "title": "Base - H4",
+                        "href": "#/components?id=base-content-elements-headers--base--h4"
+                      },
+                      {
+                        "title": "Base - H5",
+                        "href": "#/components?id=base-content-elements-headers--base--h5"
+                      },
+                      {
+                        "title": "Base - H6",
+                        "href": "#/components?id=base-content-elements-headers--base--h6"
+                      },
+                      {
+                        "title": "View All",
+                        "href": "#/components?group=base-content-elements-headers"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Lists",
+                    "submenu": [
+                      {
+                        "title": "Base - Mixed List",
+                        "href": "#/components?id=base-content-elements-lists--base--mixed-list"
+                      },
+                      {
+                        "title": "Base - Ol",
+                        "href": "#/components?id=base-content-elements-lists--base--ol"
+                      },
+                      {
+                        "title": "Base - Ul",
+                        "href": "#/components?id=base-content-elements-lists--base--ul"
+                      },
+                      {
+                        "title": "View All",
+                        "href": "#/components?group=base-content-elements-lists"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "View All",
+                    "href": "#/components?group=base-content-elements"
+                  }
+                ]
+              },
+              {
+                "title": "View All",
+                "href": "#/components?group=base-content"
+              }
+            ]
+          },
+          {
+            "title": "Forms",
+            "submenu": [
+              {
+                "title": "Base - Form",
+                "href": "#/components?id=base-forms--base--form"
+              },
+              {
+                "title": "Controls",
+                "submenu": [
+                  {
+                    "title": "Base - Button",
+                    "href": "#/components?id=base-forms-controls--base--button"
+                  },
+                  {
+                    "title": "Base - Checkboxes",
+                    "href": "#/components?id=base-forms-controls--base--checkboxes"
+                  },
+                  {
+                    "title": "Base - Radios",
+                    "href": "#/components?id=base-forms-controls--base--radios"
+                  },
+                  {
+                    "title": "Base - Select",
+                    "href": "#/components?id=base-forms-controls--base--select"
+                  },
+                  {
+                    "title": "View All",
+                    "href": "#/components?group=base-forms-controls"
+                  }
+                ]
+              },
+              {
+                "title": "Inputs",
+                "submenu": [
+                  {
+                    "title": "Input - Color",
+                    "href": "#/components?id=base-forms-inputs--input--color"
+                  },
+                  {
+                    "title": "Input - Date",
+                    "href": "#/components?id=base-forms-inputs--input--date"
+                  },
+                  {
+                    "title": "Input - Datetime Local",
+                    "href": "#/components?id=base-forms-inputs--input--datetime-local"
+                  },
+                  {
+                    "title": "Input - Datetime",
+                    "href": "#/components?id=base-forms-inputs--input--datetime"
+                  },
+                  {
+                    "title": "Input - Email",
+                    "href": "#/components?id=base-forms-inputs--input--email"
+                  },
+                  {
+                    "title": "Input - File",
+                    "href": "#/components?id=base-forms-inputs--input--file"
+                  },
+                  {
+                    "title": "Input - Hidden",
+                    "href": "#/components?id=base-forms-inputs--input--hidden"
+                  },
+                  {
+                    "title": "Input - Image",
+                    "href": "#/components?id=base-forms-inputs--input--image"
+                  },
+                  {
+                    "title": "Input - Month",
+                    "href": "#/components?id=base-forms-inputs--input--month"
+                  },
+                  {
+                    "title": "Input - Number",
+                    "href": "#/components?id=base-forms-inputs--input--number"
+                  },
+                  {
+                    "title": "Input - Password",
+                    "href": "#/components?id=base-forms-inputs--input--password"
+                  },
+                  {
+                    "title": "Input - Range",
+                    "href": "#/components?id=base-forms-inputs--input--range"
+                  },
+                  {
+                    "title": "Input - Reset",
+                    "href": "#/components?id=base-forms-inputs--input--reset"
+                  },
+                  {
+                    "title": "Input - Search",
+                    "href": "#/components?id=base-forms-inputs--input--search"
+                  },
+                  {
+                    "title": "Input - Submit",
+                    "href": "#/components?id=base-forms-inputs--input--submit"
+                  },
+                  {
+                    "title": "Input - Tel",
+                    "href": "#/components?id=base-forms-inputs--input--tel"
+                  },
+                  {
+                    "title": "Input - Text",
+                    "href": "#/components?id=base-forms-inputs--input--text"
+                  },
+                  {
+                    "title": "Input - Time",
+                    "href": "#/components?id=base-forms-inputs--input--time"
+                  },
+                  {
+                    "title": "Input - Url",
+                    "href": "#/components?id=base-forms-inputs--input--url"
+                  },
+                  {
+                    "title": "Input - Week",
+                    "href": "#/components?id=base-forms-inputs--input--week"
+                  },
+                  {
+                    "title": "Textarea",
+                    "href": "#/components?id=base-forms-inputs--textarea"
+                  },
+                  {
+                    "title": "View All",
+                    "href": "#/components?group=base-forms-inputs"
+                  }
+                ]
+              },
+              {
+                "title": "View All",
+                "href": "#/components?group=base-forms"
+              }
+            ]
+          },
+          {
+            "title": "View All",
+            "href": "#/components?group=base"
+          }
+        ]
+      },
+      {
+        "title": "Base - Color - Swatches",
+        "href": "#/components?id=base--color--swatches"
+      },
+      {
+        "skip": true,
+        "path": "components.yml"
+      },
+      {
+        "title": "Custom - Controls",
+        "href": "#/components?id=custom--controls"
+      },
+      {
+        "title": "Main - Navigation",
+        "href": "#/components?id=main--navigation"
+      },
+      {
+        "title": "View All",
+        "href": "#/components"
+      }
+    ]
+  },
+  {
+    "title": "Layouts",
+    "submenu": [
+      {
+        "skip": true,
+        "path": "layouts.yml"
+      },
+      {
+        "title": "View All",
+        "href": "#/layouts"
+      }
+    ]
+  }
+]
