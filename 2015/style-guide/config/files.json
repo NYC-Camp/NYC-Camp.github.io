@@ -22,13 +22,6 @@
       "group": ""
     },
     {
-      "name": "teaser--frontpage",
-      "title": "Teaser - Frontpage",
-      "id": "teaser--frontpage",
-      "path": "partials/components/teaser--frontpage.html",
-      "group": ""
-    },
-    {
       "name": "base--form",
       "title": "Base - Form",
       "id": "base-forms--base--form",
