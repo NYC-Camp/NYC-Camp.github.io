@@ -3,6 +3,10 @@
     "title": "Components",
     "submenu": [
       {
+        "skip": true,
+        "path": ".DS_Store"
+      },
+      {
         "title": "Base",
         "submenu": [
           {
@@ -253,6 +257,22 @@
       {
         "title": "Main - Navigation",
         "href": "#/components?id=main--navigation"
+      },
+      {
+        "title": "Schedule - Session - Grid",
+        "href": "#/components?id=schedule--session--grid"
+      },
+      {
+        "title": "Schedule - Session - List",
+        "href": "#/components?id=schedule--session--list"
+      },
+      {
+        "title": "Secondary - Navigation - Topbar",
+        "href": "#/components?id=secondary--navigation--topbar"
+      },
+      {
+        "title": "Teaser - Frontpage",
+        "href": "#/components?id=teaser--frontpage"
       },
       {
         "title": "View All",

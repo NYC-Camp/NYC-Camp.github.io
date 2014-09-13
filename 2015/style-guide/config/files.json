@@ -22,6 +22,34 @@
       "group": ""
     },
     {
+      "name": "schedule--session--grid",
+      "title": "Schedule - Session - Grid",
+      "id": "schedule--session--grid",
+      "path": "partials/components/schedule--session--grid.html",
+      "group": ""
+    },
+    {
+      "name": "schedule--session--list",
+      "title": "Schedule - Session - List",
+      "id": "schedule--session--list",
+      "path": "partials/components/schedule--session--list.html",
+      "group": ""
+    },
+    {
+      "name": "secondary--navigation--topbar",
+      "title": "Secondary - Navigation - Topbar",
+      "id": "secondary--navigation--topbar",
+      "path": "partials/components/secondary--navigation--topbar.html",
+      "group": ""
+    },
+    {
+      "name": "teaser--frontpage",
+      "title": "Teaser - Frontpage",
+      "id": "teaser--frontpage",
+      "path": "partials/components/teaser--frontpage.html",
+      "group": ""
+    },
+    {
       "name": "base--form",
       "title": "Base - Form",
       "id": "base-forms--base--form",
