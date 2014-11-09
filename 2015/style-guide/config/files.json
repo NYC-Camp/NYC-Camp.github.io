@@ -15,10 +15,31 @@
       "group": ""
     },
     {
+      "name": "footer",
+      "title": "Footer",
+      "id": "footer",
+      "path": "partials/components/footer.html",
+      "group": ""
+    },
+    {
       "name": "main--navigation",
       "title": "Main - Navigation",
       "id": "main--navigation",
       "path": "partials/components/main--navigation.html",
+      "group": ""
+    },
+    {
+      "name": "masthead",
+      "title": "Masthead",
+      "id": "masthead",
+      "path": "partials/components/masthead.html",
+      "group": ""
+    },
+    {
+      "name": "partnership--option",
+      "title": "Partnership - Option",
+      "id": "partnership--option",
+      "path": "partials/components/partnership--option.html",
       "group": ""
     },
     {
@@ -36,17 +57,31 @@
       "group": ""
     },
     {
-      "name": "secondary--navigation--topbar",
-      "title": "Secondary - Navigation - Topbar",
-      "id": "secondary--navigation--topbar",
-      "path": "partials/components/secondary--navigation--topbar.html",
+      "name": "schedule--session--track",
+      "title": "Schedule - Session - Track",
+      "id": "schedule--session--track",
+      "path": "partials/components/schedule--session--track.html",
       "group": ""
     },
     {
-      "name": "teaser--frontpage",
-      "title": "Teaser - Frontpage",
-      "id": "teaser--frontpage",
-      "path": "partials/components/teaser--frontpage.html",
+      "name": "secondary-navigation-topbar",
+      "title": "Secondary Navigation Topbar",
+      "id": "secondary-navigation-topbar",
+      "path": "partials/components/secondary-navigation-topbar.html",
+      "group": ""
+    },
+    {
+      "name": "social",
+      "title": "Social",
+      "id": "social",
+      "path": "partials/components/social.html",
+      "group": ""
+    },
+    {
+      "name": "teaser-frontpage",
+      "title": "Teaser Frontpage",
+      "id": "teaser-frontpage",
+      "path": "partials/components/teaser-frontpage.html",
       "group": ""
     },
     {

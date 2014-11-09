@@ -255,8 +255,20 @@
         "href": "#/components?id=custom--controls"
       },
       {
+        "title": "Footer",
+        "href": "#/components?id=footer"
+      },
+      {
         "title": "Main - Navigation",
         "href": "#/components?id=main--navigation"
+      },
+      {
+        "title": "Masthead",
+        "href": "#/components?id=masthead"
+      },
+      {
+        "title": "Partnership - Option",
+        "href": "#/components?id=partnership--option"
       },
       {
         "title": "Schedule - Session - Grid",
@@ -267,12 +279,20 @@
         "href": "#/components?id=schedule--session--list"
       },
       {
-        "title": "Secondary - Navigation - Topbar",
-        "href": "#/components?id=secondary--navigation--topbar"
+        "title": "Schedule - Session - Track",
+        "href": "#/components?id=schedule--session--track"
       },
       {
-        "title": "Teaser - Frontpage",
-        "href": "#/components?id=teaser--frontpage"
+        "title": "Secondary Navigation Topbar",
+        "href": "#/components?id=secondary-navigation-topbar"
+      },
+      {
+        "title": "Social",
+        "href": "#/components?id=social"
+      },
+      {
+        "title": "Teaser Frontpage",
+        "href": "#/components?id=teaser-frontpage"
       },
       {
         "title": "View All",
